@@ -32,7 +32,7 @@ Driven by curiosity and persistence, I enjoy exploring real-world lab scenarios,
 ---
 
 ## 🌐 Connect
-- GitHub: **AnonymOusH4ck**  
+- GitHub: [**AnonymOusH4ck**](https://github.com/Anonym0usH4ck)  
 - LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/ernesto-gattor-7bb149223/)  
 
 ---
