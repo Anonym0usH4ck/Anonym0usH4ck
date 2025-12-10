@@ -27,7 +27,7 @@ I believe in continuous learning, ethical hacking, and building tools that empow
 ---
 
 ## 📂 My Repositories
-- **HTB Writeups** → Detailed HackTheBox machine solutions and notes  
+- [**HTB Writeups**](https://github.com/Anonym0usH4ck/HTB-WriteUp) → Detailed HackTheBox machine solutions and notes  
 - **Tools** → Scripts and utilities for penetration testing 🚧 *work in progress* 🚧  
 
 ---
