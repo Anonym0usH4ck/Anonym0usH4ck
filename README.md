@@ -1,9 +1,10 @@
 # 👋 Welcome to my GitHub Profile
 
 ## 🧑‍💻 About Me
-**Cybersecurity consultant** and **passionate penetration tester** from Italy.  
-Specialized in **Windows/Linux privilege escalation, service exploitation, automation, hash cracking, and binary analysis**.  
-Driven by curiosity and persistence, I enjoy exploring real-world lab scenarios, building scripts to automate workflows, and continuously refining technical solutions.
+Passionate **penetration tester** and cybersecurity enthusiast from Italy.  
+I focus on **Windows/Linux privilege escalation, service exploitation, automation, hash cracking, and binary analysis**.  
+Curiosity and persistence drive me to explore real-world labs, refine scripts for workflow automation, and share practical solutions with the community.  
+I believe in continuous learning, ethical hacking, and building tools that empower others to understand and strengthen security.
 
 ---
 
