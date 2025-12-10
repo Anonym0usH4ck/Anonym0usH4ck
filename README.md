@@ -1,16 +1,49 @@
-## Hi there 👋
+# 👋 Welcome to my GitHub Profile
 
-<!--
-**Anonym0usH4ck/Anonym0usH4ck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🧑‍💻 About Me
+**Cybersecurity consultant** and **passionate penetration tester** from Italy.  
+Specialized in **Windows/Linux privilege escalation, service exploitation, automation, hash cracking, and binary analysis**.  
+Driven by curiosity and persistence, I enjoy exploring real-world lab scenarios, building scripts to automate workflows, and continuously refining technical solutions.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎓 Education & Certifications
+- 🎓 Bachelor's Degree in **Computer Engineering**  
+- 📜 **CompTIA Security+**  
+- 📜 **EHA (Ethical Hacking Associate)**  
+- 📜 **eJPT (Junior Penetration Tester)**  
+- 📚 Currently enrolled in **Hack The Box Academy (Penetration Tester Path)**  
+- 🚀 Preparing for **CPTS (Certified Penetration Testing Specialist)**  
+
+---
+
+## 🛠️ Skills
+- Bash scripting & regex automation for documentation workflows  
+- Advanced troubleshooting of Docker, Windows path traversal, and API exploitation  
+- Persistent and methodical in edge-case handling and technical refinement  
+- Collaborative and clear in technical feedback, driving iterative improvement  
+
+---
+
+## 📂 My Repositories
+- **HTB Writeups** → Detailed HackTheBox machine solutions and notes  
+- **Tools** → Scripts and utilities for penetration testing 🚧 *work in progress* 🚧  
+
+---
+
+## 🌐 Connect
+- GitHub: **AnonymOusH4ck**  
+- LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/tuo-profilo-linkedin)  
+
+---
+
+## 🏷️ Keywords
+`HackTheBox` · `CTF` · `Pentesting` · `Privilege Escalation` · `Cybersecurity` · `Enumeration` · `Exploitation` · `Regex Automation` · `Python` · `Bash` · `PowerShell` · `SQL Injection` · `Binary Analysis` · `Writeups` · `Security Certifications`
+
+---
+
+## ⚠️ Disclaimer
+All content is for **educational purposes only**.  
+Do not execute these techniques on unauthorized systems.  
+Tools are released under the **MIT License**, while write-ups are under **CC BY-NC-SA**.
+
